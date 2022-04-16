@@ -41,3 +41,6 @@ $include entries/vote.txt
 $include plushies/defines.txt
 # Special Sandstorm configs
 $include sandstorm/config.txt
+# Special Vice configs
+$include vice/discord.txt
+$include vice/general.txt
